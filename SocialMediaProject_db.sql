@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS SocialMediaAnalytics;
 CREATE DATABASE SocialMediaAnalytics;
 USE SocialMediaAnalytics;
 
